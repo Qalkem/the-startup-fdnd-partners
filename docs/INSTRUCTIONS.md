@@ -1,6 +1,4 @@
-# Redesign Coding the Curbs Website 
-
-![FDND Partners]()
+# Redesign FDND Partners microsite
 
 ## Context
 Deze leertaak hoort bij sprint The Startup. Dit is een autonomous leertaak die je individueel uitvoert voor FDND.
