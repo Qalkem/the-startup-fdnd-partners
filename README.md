@@ -1,6 +1,8 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Titel
+FDND Partners 
+<img src="Screenshot from 2021-12-22 12-53-20.png">
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 ## Inhoudsopgave 📖
  *1.Analyse*
@@ -25,7 +27,7 @@ Verder is het ook mijn doel om deze microsite  responsive te maken.  Het is ook 
 # Ontwerp 🎨
 
   Pen & papier 
-  
+
 <img width="350" src="MicrosoftTeams-image (1).png">
 <img width="350" src="MicrosoftTeams-image (2).png">
 <img width="350" src="MicrosoftTeams-image (3).png">
@@ -34,6 +36,27 @@ Verder is het ook mijn doel om deze microsite  responsive te maken.  Het is ook 
 <img width="350" src="MicrosoftTeams-image (6).png">
 <img width="350" src="MicrosoftTeams-image (7).png">
 <img width="350" src="MicrosoftTeams-image (8) (copy).png">
+
+# Bouwfase 👷
+ Bij de bouwfase heb ik alles gebouwed volgens de conclusies die heb ik heb kunnen realiseren bij de analyse en ontwerp.
+ 
+
+
+# Integreren
+
+ 
+# Testen🚀
+ 
+
+## Methodes en principes
+Dev Life Cycle
+Divergeren en ConvergereN
+ 
+ 
+
+
+
+## Code afspraken 📔
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
