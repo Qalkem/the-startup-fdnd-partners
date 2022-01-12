@@ -2,7 +2,11 @@
 
 # Titel
 FDND Partners 
+ 
 <img src="Screenshot from 2022-01-12 11-25-46.png">
+ 
+ 
+>>>>>>> 50941d6b5151e75c33e652b92f5c6a273194f4a3
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 ## Inhoudsopgave 📖
  *1.Analyse*
