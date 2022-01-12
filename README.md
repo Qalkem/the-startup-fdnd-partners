@@ -24,7 +24,16 @@ Verder is het ook mijn doel om deze microsite  responsive te maken.
 
 # Ontwerp 🎨
 
-
+ 
+<img src="/home/jeanroger/Documents/GitHub/the-startup-fdnd-partners/MicrosoftTeams-image (1).png">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
