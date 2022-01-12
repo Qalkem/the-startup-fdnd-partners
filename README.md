@@ -16,7 +16,7 @@
 
 # Analayse🔎
 Ik heb als doel om samen met mijn teamlid een hernieuwde microsite te bouwen voor fdnd.partners.
-Verder is het ook mijn doel om deze microsite  responsive te maken.  
+Verder is het ook mijn doel om deze microsite  responsive te maken.  Het is ook belangrijk om de huisstijl van fdnd te gebruiken.
  
  
 
@@ -26,14 +26,14 @@ Verder is het ook mijn doel om deze microsite  responsive te maken.
 
  
 <img src="/home/jeanroger/Documents/GitHub/the-startup-fdnd-partners/MicrosoftTeams-image (1).png">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="/home/jeanroger/Documents/GitHub/the-startup-fdnd-partners/MicrosoftTeams-image (2).png">
+<img src="MicrosoftTeams-image (3).png">
+<img src="/home/jeanroger/Documents/GitHub/the-startup-fdnd-partners/MicrosoftTeams-image (4).png">
+<img src="/home/jeanroger/Documents/GitHub/the-startup-fdnd-partners/MicrosoftTeams-image (5).png">
+<img src="/home/jeanroger/Documents/GitHub/the-startup-fdnd-partners/MicrosoftTeams-image (6).png">
+<img src="/home/jeanroger/Documents/GitHub/the-startup-fdnd-partners/MicrosoftTeams-image (7).png">
+<img src="/home/jeanroger/Documents/GitHub/the-startup-fdnd-partners/MicrosoftTeams-image (8).png">
+
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
