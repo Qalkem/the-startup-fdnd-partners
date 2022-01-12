@@ -2,15 +2,28 @@
 
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
+## Inhoudsopgave 📖
+ *1.Analyse*
+ *2.Ontwerp*
+ *3.Bouwfase*
+ *4.Integreren*
+ *5.Testen*
+ *6.Methodes & Principes*
+ *7.Code afspraken*
+ *9.Bronnen*
+ *10.Licentie*
+ 
 
-## Inhoudsopgave
+# Analayse🔎
+Ik heb als doel om samen met mijn teamlid een hernieuwde microsite te bouwen voor fdnd.partners.
+Verder is het ook mijn doel om deze microsite  responsive te maken.  
+ 
+ 
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+
+
+# Ontwerp 🎨
+
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
