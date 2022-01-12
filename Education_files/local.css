@@ -1,0 +1,21 @@
+section#onze-partners ul {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap:.5rem;
+    list-style:none;
+    margin:0;
+}
+section#onze-partners section:nth-of-type(2) ul {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+section#onze-partners ul li {
+    margin-bottom: 0;
+}
+section#onze-partners ul a {
+    display:block;
+    background-color:rgba(0,0,0,.1);
+    border-radius: var(--rounded);
+    display: flex;
+    padding:.5rem 0;
+    justify-content: center;
+}
