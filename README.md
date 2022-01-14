@@ -56,12 +56,14 @@ Verder is het ook mijn doel om deze microsite  responsive te maken.  Het is ook 
 Dev Life Cycle
 Divergeren en ConvergereN
  
- 
+ ##Gebruiker's story
 
-
-
+als gebruiker wil ik functionaliteit zodat meerwaarde
 ## Code afspraken 📔
 
+een potentiele partner moet contact  kunnen opnemen contact opnemen om 
+
+imoressie krijgen over de website en fdnd om contact te nemen 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
