@@ -61,7 +61,7 @@ logo{
      color:#050542;
      background-color: #050542;
  }
- a{
+ .header nav a{
      margin-top: 1em;
      color:turquoise;
      padding:1em;
@@ -72,7 +72,7 @@ logo{
      max-height:2em;
      background-color: #050542;
  }
- a:hover{
+ .header nav a:hover{
     cursor: pointer;
     margin-top: 1em;
     color:#050542;
@@ -104,6 +104,15 @@ h2,h3{
     max-height: 20rem;
     border-radius: 10%;
    
+}
+.PartnerBox img{
+    max-width: 14em;
+    text-decoration: none;
+}
+.PartnerBox ul{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+
 }
 article{
     justify-content: center;
@@ -138,7 +147,20 @@ article{
  
 
  }
+ .MainSectionTwo article  a{
+
+ }
  
  .MainSectionTwo{
      margin-top: -10em;
  }
+
+ .WerkveldpartnerBox img{
+    max-width: 14em;
+    max-width: 7em;
+    text-decoration: none;
+}
+.WerkveldpartnerBox ul{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
