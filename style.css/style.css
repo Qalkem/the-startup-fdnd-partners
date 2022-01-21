@@ -52,7 +52,21 @@ logo{
     
 
  }
-
+ .skip_lnk {
+    position: absolute;
+    padding: .5rem 1rem;
+    color: #fff;
+    background-color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    z-index: 10;
+    transform: translate3d(.125rem, -5rem, 0);
+    transition: transform .3s ease-out;
+  }
+  .skip_lnk:focus {
+    transform: translate3d(.125rem, .125rem, 0);
+    outline: #fff solid .125rem;
+  }
  nav{
     margin-top: -6em;
      margin-left:25em;
@@ -164,3 +178,19 @@ article{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
+.btn {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    z-index: 10;
+  }
+  
+  .btn:hover {
+    background-color: #3e8e41;
+    color: white;
+  }
