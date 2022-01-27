@@ -1,3 +1,5 @@
+document.open(, replace)
+
 function move() {
     var elem = document.getElementById("myBar");   
     var width = 20;
