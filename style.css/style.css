@@ -1,8 +1,8 @@
- 
+@media only screen and (max-width: 140em)  {
  
  body{
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    
+    font-weight:900;
  margin-top: 3em;
     margin:0;
     background-color: #050542;
@@ -73,6 +73,10 @@ logo{
   color:#050542;
  
 }
+.ImageStudenten{
+  max-width: 5em;
+  max-height: 5em;
+}
 .HVA{
     margin-top:2em;
     margin-bottom:1em;
@@ -113,6 +117,9 @@ logo{
     transform: translate3d(.125rem, .125rem, 0);
     outline: #fff solid .125rem;
 
+}
+#SumId{
+  display:none;
 }
 
 #progressbar{
@@ -295,17 +302,17 @@ h2,h3{
     align-items: center;
     justify-content: center;
 }
- /* The navigation bar */
+ 
  .navbar {
     overflow: hidden;
     background-color: #050542;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
+    position: fixed;  
+    top: 0;  
+    width: 100%;  
     display:flex;
   }
   
-  /* Links inside the navbar */
+ 
   .navbar a {
     float: left;
     display: block;
@@ -318,7 +325,7 @@ h2,h3{
  
   }
   
-  /* Change background on mouse-over */
+  
   .navbar a:hover {
     cursor: pointer;
     margin-top: 1em;
@@ -331,9 +338,9 @@ h2,h3{
     max-height:2em;
   }
   
-  /* Main content */
+   
   .main {
-    margin-top: 30px; /* Add a top margin to avoid content overlay */
+    margin-top: 30px;  
   } 
 .PartnerBox img{
     max-width: 14em;
@@ -404,9 +411,63 @@ article{
     transition: 0.3s;
     z-index: 10;
   }
+  #MicrositeBox > li > a{
+    color:#050542;
+    font-size: medium;
+   
+    font-weight:900;
+  }
+}
+
+
+
+
   
-  @media only screen and (max-width: 35em) {
-    
+  @media only screen and (max-width: 35em) and (min-width: 18em)  {
+    .header{
+      display: flex;
+      flex-wrap: wrap;
+flex-direction: column;    
+}
+
+.MicrositeButton{
+  margin-left: 10em;
+  color:white;
+ 
+ 
+}
+#SumId{
+  display:block;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  color:#050542;
+  border-radius: 0.5em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-size: medium;
+  transition: 0.25s ease-in-out;
+ text-align:start;
+  min-width: 3em;
+  min-height: 1.5em;
+  background-color: #ffffff;
+  font-family: roboto;
+  font-weight:900;
+}
+summary{
+  margin-left:4em;
+}
+ 
+.Alist{
+    cursor: pointer;
+     color: #a675f5;
+   
+    border-radius: 5px; 
+    background-color:#a675f5;
+  
+    max-height:1.5em;
+
+}
     .J{
     
     max-width: 2em;
@@ -447,7 +508,7 @@ article{
       display: flex;
       margin-left: -3em;
       width: 50%;
-    height: auto;s
+    height: auto;
     }
    
     .MainSectionTwo{
@@ -533,6 +594,13 @@ article{
       border-right: 1.52em solid #66e5bf;
       border-bottom: 2em solid #66e5bf;
     }
+
+    .ImageStudenten{
+
+      max-width: 5em;
+      max-height: 5em;
+    }
+
     .MicrositesH{
       margin-left: 5.3em;
     }
@@ -567,5 +635,19 @@ article{
       margin-left: -9.5em;
       margin-top: 4em;
     }
+    .ButtonMicrosites{
+      display: block;
+      overflow: visible;
+    }
+    #summary:hover, #detail, #detail:hover {
+      display: block;
+   
+    }
+    #detail {
+      display: none;
+    }
+    
+    
+    
   }
  
