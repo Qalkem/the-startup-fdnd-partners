@@ -42,11 +42,11 @@
      grid-template-columns: 1fr;
      font-family: 'Roboto', sans-serif;
     gap:1em;
-    font-size: 80%;
+    font-size:medium;
 }
 .Werkwijze a{
     color:#050542;
-    font-size: 80%;
+    font-size:medium;
 }
  .WerkwijzeFoto{
      margin-top:1.4em;
@@ -58,6 +58,9 @@
  } 
  .WerkwijzeSubSection{
      display:flex;
+ }
+ .WerkwijzeSubSection > h4{
+   font-size:medium;
  }
 logo{
   display:flex; 
@@ -186,7 +189,7 @@ margin-left: 8em;
         width: 10rem;
         height: 0;
         border-left: 50px solid transparent;
-        border-right: 7.66em solid transparent;
+        border-right: 11.66em solid transparent;
         border-bottom: 2em solid #66e5bf;
      
 }
@@ -203,7 +206,7 @@ margin-left: 8em;
         width: 10rem;
         height: 0;
         border-left: 50px solid transparent;
-        border-right: 9.54em solid transparent;
+        border-right: 6.85em solid transparent;
         border-bottom: 2em solid #66e5bf;
      
 }
@@ -220,12 +223,52 @@ margin-left: 8em;
         width: 10rem;
         height: 0;
         border-left: 50px solid transparent;
-        border-right: 7.33em solid transparent;
+        border-right: 4.66em solid transparent;
         border-bottom: 2em solid #66e5bf;
      
 }
 .Studentenwerk{
     min-height:40em;
+    display: flex;
+}
+.Studentenwerk > img{
+  min-width: 4em;
+  
+}
+.MicrositesH:after{
+  margin-left: 1em;
+       
+      background-color: #66e5bf;
+      color: #66e5bf;
+      font-weight: bold;
+      border-radius:2%;
+      outline: 5px solid #66e5bf; ;
+      content:" ";
+      width: 10rem;
+      height: 0;
+      border-left: 50px solid transparent;
+      border-right: 3.78em solid transparent;
+      border-bottom: 2em solid #66e5bf;
+   
+}
+.SecondSubSectionOne> h2{
+margin-left: -0.2em;
+}
+.PartnersH:after{
+  margin-left: 2em;
+       
+      background-color: #66e5bf;
+      color: #66e5bf;
+      font-weight: bold;
+      border-radius:2%;
+      outline: 5px solid #66e5bf; ;
+      content:" ";
+      width: 10rem;
+      height: 0;
+      border-left: 50px solid transparent;
+      border-right: 10.9em solid transparent;
+      border-bottom: 2em solid #66e5bf;
+   
 }
 
  
@@ -311,7 +354,7 @@ article{
     max-width: 20em;
     min-height:20em;
     min-width: 30em;
-    font-size: 0.8em;
+    font-size:medium;
 
 
 }
@@ -335,9 +378,7 @@ article{
  
 
  }
- .MainSectionTwo article  a{
-
- }
+ 
  
  .MainSectionTwo{
      margin-top: -10em;
@@ -358,10 +399,173 @@ article{
     color: black;
     padding: 16px 32px;
     text-align: center;
-    font-size: 16px;
+    font-size:medium;
     margin: 4px 2px;
     transition: 0.3s;
     z-index: 10;
   }
   
+  @media only screen and (max-width: 600px) {
+    
+    .J{
+    
+    max-width: 2em;
+  }
+    main{
+    display:grid;
+    grid-template-columns: 1fr;
+    margin-left: -3em;
+    gap: 2em;
+    }
+    main > article{
+   
+      max-width: 2em;
+    }
+article{ 
+  min-width: auto;
+      max-width:70%;
+      margin-left:2em;
+     
+    }
+    .PartnerBox > ul{ 
+      display:grid;
+      grid-template-columns: 1fr ;
+      margin-left: -2em;
+    }
+    
+  .WerkveldpartnerBoxList{
+     display:grid;
+     grid-template-columns: 1fr;
+     margin-left: -3em;
+    
+   }
+   .WerkveldpartnerBoxList > li > img{
+     max-width: 5em;
+   }
+
+    .ListBox > li >img{
+      display: flex;
+      margin-left: -3em;
+      width: 50%;
+    height: auto;s
+    }
+   
+    .MainSectionTwo{
+      margin-top: 2em;
+      margin-left: -6em;
+    }
+    .MainSectionTwo  section  article{
+      min-width: auto;
+      max-width:65%;
+      margin-left:3.5em;
+    
+    }
+   .FirstSubSectionOne > h2{
+     margin-left: 1.3em;
+   }
+   .FirstSubSectionOne > h2::after{
+    margin-left: 1em;
+         
+    background-color: #66e5bf;
+    color: #66e5bf;
+    font-weight: bold;
+    border-radius:2%;
+    outline: 5px solid #66e5bf ;
+    content:" ";
+    width: 10rem;
+    height: 0;
+    border-left: 50px solid #66e5bf;
+    border-right: 1.95em solid #66e5bf;
+    border-bottom: 2em solid #66e5bf;
+  }
+  .SecondSubSectionOne > h2{
+    
+    margin-left: 1.3em;
+  }
+  .SecondSubSectionOne > h2::after{
+    background-color: #66e5bf;
+    color: #66e5bf;
+    font-weight: bold;
+    border-radius:2%;
+    outline: 5px solid #66e5bf;
+    content:" ";
+    width: 10rem;
+    height: 0;
+    border-left: 50px solid #66e5bf;
+    border-right: 0.99em solid #66e5bf;
+
+  }
+    .WerkwijzeH{
+      margin-left: 5.2em;
+    }
+    .WerkwijzeH:after{
+      margin-left: 1em;
+         
+      background-color: #66e5bf;
+      color: #66e5bf;
+      font-weight: bold;
+      border-radius:2%;
+      outline: 5px solid #66e5bf; ;
+      content:" ";
+      width: 10rem;
+      height: 0;
+      border-left: 50px solid #66e5bf;
+      border-right: 3.8em solid #66e5bf;
+      border-bottom: 2em solid #66e5bf;
+
+    }
+  
+    .StudentenWerkH{
+      margin-left: 5.3em;
+    }
+    .StudentenWerkH::after{
+      margin-left: 1em;
+         
+      background-color: #66e5bf;
+      color: #66e5bf;
+      font-weight: bold;
+      border-radius:2%;
+      outline: 5px solid #66e5bf; ;
+      content:" ";
+      width: 10rem;
+      height: 0;
+      border-left: 50px solid #66e5bf;
+      border-right: 1.52em solid #66e5bf;
+      border-bottom: 2em solid #66e5bf;
+    }
+    .MicrositesH{
+      margin-left: 5.3em;
+    }
+    .MicrositesH::after{
+      margin-left: 1em;
+         
+      background-color: #66e5bf;
+      color: #66e5bf;
+      font-weight: bold;
+      border-radius:2%;
+      outline: 5px solid #66e5bf; ;
+      content:" ";
+      width: 10rem;
+      height: 0;
+      border-left: 50px solid #66e5bf;
+      border-right: 0.65em solid #66e5bf;
+      border-bottom: 2em solid #66e5bf;
+
+    }
+    .NavBarSubTwo{
+      display:none;
+    }
+    .HVA{
+ 
+     display: block;
+     block-size: 2em;
+     margin-left: 0em;
+     margin-top: -2em;
+  
+    }
+    .LogoSpan{
+      margin-left: -9.5em;
+      margin-top: 4em;
+    }
+  }
  
