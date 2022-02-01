@@ -72,6 +72,7 @@ als gebruiker wil ik functionaliteit zodat meerwaarde
     Duidelijke class namen dat iets zegt over de element
     -Streepjes in img bestanden in plaats van spacebar spacebar
     Goede leesbaarheid hanteren
+    Em/vh/rem in plaats van pixel
     Semantiek HTML
     Kleuren van de Styleguide gebruiken
     geen cijfers in ID
