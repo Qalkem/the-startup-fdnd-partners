@@ -61,9 +61,22 @@ Divergeren en ConvergereN
 als gebruiker wil ik functionaliteit zodat meerwaarde
 ## Code afspraken 📔
 
-een potentiele partner moet contact  kunnen opnemen contact opnemen om 
 
-imoressie krijgen over de website en fdnd om contact te nemen 
+    Feedback serieus nemen
+    aangeboden principes gebruiken
+    gebruik maken van html,css en javascript.
+    schetsen 
+    2 grid layout (https://partners.fdnd.nl/)
+    Styleguide volgen(Typografie,kleur, fontsize, font)
+    Camel casing toepassen
+    Duidelijke class namen dat iets zegt over de element
+    -Streepjes in img bestanden in plaats van spacebar spacebar
+    Goede leesbaarheid hanteren
+    Semantiek HTML
+    Kleuren van de Styleguide gebruiken
+    geen cijfers in ID
+    Een zin heeft maximaal 12 woorden voor de breakpoint.
+
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
