@@ -66,6 +66,7 @@ als gebruiker wil ik functionaliteit zodat meerwaarde
     aangeboden principes gebruiken
     gebruik maken van html,css en javascript.
     schetsen 
+    afgeronde hoeken
     2 grid layout (https://partners.fdnd.nl/)
     Styleguide volgen(Typografie,kleur, fontsize, font)
     Camel casing toepassen
