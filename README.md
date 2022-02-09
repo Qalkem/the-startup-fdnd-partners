@@ -36,16 +36,16 @@ Verder is het ook mijn doel om deze microsite  responsive te maken.  Het is ook 
   <img src="MicrosoftTeams-image (1).png" width="100" />
   <img src="MicrosoftTeams-image (2).png" width="100" /> 
   <img src="MicrosoftTeams-image (3).png" width="100" />
+ <img width="350" src="MicrosoftTeams-image (4).png">
 </p>
 
-<img width="350" src="MicrosoftTeams-image (1).png">
-<img width="350" src="MicrosoftTeams-image (2).png">
-<img width="350" src="MicrosoftTeams-image (3).png">
-<img width="350" src="MicrosoftTeams-image (4).png">
+ <p float="left"> 
+ 
 <img width="350" src="MicrosoftTeams-image (5).png">
 <img width="350" src="MicrosoftTeams-image (6).png">
 <img width="350" src="MicrosoftTeams-image (7).png">
 <img width="350" src="MicrosoftTeams-image (8) (copy).png">
+ </p>
 
 # Bouwfase 👷
  Bij de bouwfase heb ik alles gebouwed volgens de conclusies die heb ik heb kunnen realiseren bij de analyse en ontwerp.
