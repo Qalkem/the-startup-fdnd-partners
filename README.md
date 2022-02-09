@@ -31,6 +31,12 @@ Verder is het ook mijn doel om deze microsite  responsive te maken.  Het is ook 
 # Ontwerp 🎨
 
   Pen & papier 
+  
+<p float="left">
+  <img src="MicrosoftTeams-image (1).png" width="100" />
+  <img src="MicrosoftTeams-image (2).png" width="100" /> 
+  <img src="MicrosoftTeams-image (3).png" width="100" />
+</p>
 
 <img width="350" src="MicrosoftTeams-image (1).png">
 <img width="350" src="MicrosoftTeams-image (2).png">
